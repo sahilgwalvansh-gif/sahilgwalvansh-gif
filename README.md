@@ -26,4 +26,11 @@
 <p> <a target="blank"> <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,github,git,gitlab,vscode,figma,gcp,react,nodejs,replit,firebase" alt="LinkedIn" /></a>
 </p>
 
+ ##
+ 
+<h3>📊 GitHub Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sahilgwalvansh-gif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
