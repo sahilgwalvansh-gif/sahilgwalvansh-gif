@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p> <a target="blank"> <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,java,github,git,gitlab,vscode,canva,gcp,react,nodejs,replit,firebase" alt="LinkedIn" /></a>
+<p> <a target="blank"> <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,java,github,git,gitlab,vscode,gcp,react,nodejs,replit,firebase" alt="LinkedIn" /></a>
 </p>
 
  ##
