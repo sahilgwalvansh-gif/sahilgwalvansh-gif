@@ -30,8 +30,7 @@
  
 <h3>📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.shion.dev/api?username=sahilgwalvansh-gif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sahilgwalvansh-gif&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilgwalvansh-gif&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.shion.dev/api?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sahilgwalvansh-gif&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
