@@ -12,7 +12,7 @@
 
 <h2 align="left">About me:</h2>
 <img align="right" height="200" src="https://i.pinimg.com/originals/49/29/57/4929571ca9465e280f1fa7e9bd7772aa.gif"  />
-<p align="left">👨‍💻 Computer Science student with a strong interest<br> in technology and problem-solving<br>🌱 Currently learning Data Structures, Algorithms,<br> and core programming concepts<br>🎯 Goal: become a skilled software engineer and <br>build real-world projects<br>🚀 Focused on consistency, continuous learning, and <br>personal growth</p>
+<p align="left">- Computer Science student with a strong interest<br> in technology and problem-solving<br>- Currently learning Data Structures, Algorithms,<br> and core programming concepts<br>- Goal: become a skilled software engineer and <br>build real-world projects<br>- Focused on consistency, continuous learning, and <br>personal growth</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,9 +28,13 @@
 
  ##
  
+<div align="center">
+
 <h3>📊 GitHub Stats:</h3>
 
-![](https://github-readme-stats.shion.dev/api?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=sahilgwalvansh-gif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilgwalvansh-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
